@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+python-jose[cryptography]
+bcrypt
+python-multipart
+GitPython
+joblib
+numpy
+scikit-learn

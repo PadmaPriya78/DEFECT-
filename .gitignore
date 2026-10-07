@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+node_modules/
+
+# Local database
+backend/defectguard.db
+
+# Duplicate/generated ML artifacts
+backend/best_model.pkl
+backend/scaler.pkl
+backend/feature_columns.pkl
+
+backend/ml_artifacts/*.pkl
